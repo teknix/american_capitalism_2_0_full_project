@@ -320,7 +320,7 @@ Shared service that strengthens readiness and social cohesion.
 
 **Mechanisms:**
 
-- phased, universal one-year civic service with three pathways: military; domestic peace and resilience corps (disaster response, community safety); and care corps (elder care, hospitals, public health)  
+- phased, universal civic service with defined terms: one-year military or domestic peace/resilience (disaster response, community safety), and 18-month care corps and other lower-risk service (elder care, hospitals, public health)  
 - living stipend plus education or skill credits; portable placements near home or where need is highest  
 - limited exemptions with alternative remote roles; rights protections and nonpartisan administration  
 - independent oversight board that includes labor, military, health, and small-business voices to monitor placement fairness and appeals
@@ -344,7 +344,7 @@ American Capitalism 2.0 is enacted in four overlapping phases.
 
 Key actions:
 
-- design the civic service pathways and oversight framework; launch pilots in two regions  
+- design the civic service pathways, term structure (one-year military/resilience, 18-month care/low-risk), and oversight framework; launch pilots in two regions  
 - publish clear program goals with outcome dashboards and cost-per-outcome metrics; set performance triggers that allow accelerated leadership changes with due process  
 - aggressively enforce existing antitrust laws  
 - end surprise billing and improve healthcare price transparency  
@@ -360,7 +360,7 @@ Key actions:
 
 Key actions:
 
-- scale civic service to a national option with incentives; evaluate readiness, workforce, and cohesion impacts  
+- scale civic service to a national option with incentives; evaluate readiness, workforce, and cohesion impacts at the one-year and 18-month tracks  
 - introduce wage–productivity partnership incentives  
 - expand profit-sharing and worker equity mechanisms  
 - pilot reduced workweek programs with robust evaluation  
