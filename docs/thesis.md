@@ -28,6 +28,7 @@ This is not socialism, nor is it libertarianism. It is a balanced, innovation-dr
    - Reduced Workweek Transition  
    - Skilled Trades & Reshoring Revival  
    - Small Business First  
+   - Civic Service & National Resilience  
 6. Implementation Strategy (Phases 1–4)  
 7. Expected Outcomes  
 8. Why This Model Is Politically Salable  
@@ -141,7 +142,7 @@ These principles are the foundation of the model.
 
 ### Overview
 
-The policy framework for American Capitalism 2.0 is organized into seven mutually reinforcing pillars:
+The policy framework for American Capitalism 2.0 is organized into eight mutually reinforcing pillars:
 
 1. Wage–Productivity Partnership  
 2. Anti-Monopoly Revival  
@@ -149,7 +150,8 @@ The policy framework for American Capitalism 2.0 is organized into seven mutuall
 4. American Health Guarantee  
 5. Reduced Workweek Transition  
 6. Skilled Trades & Reshoring Revival  
-7. Small Business First
+7. Small Business First  
+8. Civic Service & National Resilience
 
 Each pillar is described below.
 
@@ -167,6 +169,7 @@ A modernized version of the postwar social contract.
 - worker equity pools that grant employees a stake in long-term value  
 - tax credits for firms whose wage growth tracks profitability and productivity  
 - conditioning executive bonuses and certain corporate tax advantages on wage floors and profit-sharing performance
+- a unified effective tax floor that aligns capital and labor taxation so middle-class households and billionaires face similar effective rates, while phasing out small-business advantages as firms scale
 
 **Impact:**
 
@@ -309,6 +312,28 @@ Small business is the centerpiece of American Capitalism 2.0.
 
 ---
 
+### 5.8 Pillar 8: Civic Service & National Resilience
+
+Shared service that strengthens readiness and social cohesion.
+
+**Goal:** Build a common civic experience and surge capacity for national needs.
+
+**Mechanisms:**
+
+- phased, universal one-year civic service with three pathways: military; domestic peace and resilience corps (disaster response, community safety); and care corps (elder care, hospitals, public health)  
+- living stipend plus education or skill credits; portable placements near home or where need is highest  
+- limited exemptions with alternative remote roles; rights protections and nonpartisan administration  
+- independent oversight board that includes labor, military, health, and small-business voices to monitor placement fairness and appeals
+
+**Impact:**
+
+- strengthens disaster and public health readiness  
+- fills critical care gaps without displacing existing staff  
+- builds pipelines into trades, healthcare, and public safety  
+- increases social cohesion across class and region
+
+---
+
 ## 6. Implementation Strategy
 
 American Capitalism 2.0 is enacted in four overlapping phases.
@@ -319,6 +344,8 @@ American Capitalism 2.0 is enacted in four overlapping phases.
 
 Key actions:
 
+- design the civic service pathways and oversight framework; launch pilots in two regions  
+- publish clear program goals with outcome dashboards and cost-per-outcome metrics; set performance triggers that allow accelerated leadership changes with due process  
 - aggressively enforce existing antitrust laws  
 - end surprise billing and improve healthcare price transparency  
 - launch the Automation Dividend Fund with modest initial payouts  
@@ -333,6 +360,7 @@ Key actions:
 
 Key actions:
 
+- scale civic service to a national option with incentives; evaluate readiness, workforce, and cohesion impacts  
 - introduce wage–productivity partnership incentives  
 - expand profit-sharing and worker equity mechanisms  
 - pilot reduced workweek programs with robust evaluation  
@@ -347,6 +375,7 @@ Key actions:
 
 Key actions:
 
+- normalize universal civic service participation with credentialing for trades, healthcare, and public safety pathways  
 - normalize a 32–36 hour workweek in many sectors  
 - fully implement the American Health Guarantee with catastrophic coverage and caps  
 - deepen small-business advantages in tax and procurement policy  
@@ -361,6 +390,7 @@ Key actions:
 
 Key actions:
 
+- maintain transparent program scorecards and independent reviews to keep leadership accountable and responsive  
 - monitor and maintain a healthy wage–productivity link  
 - keep market concentration in check through ongoing antitrust enforcement  
 - ensure the Automation Dividend Fund and related institutions are permanent, transparent, and accountable  
@@ -378,6 +408,8 @@ If implemented, American Capitalism 2.0 is expected to produce:
 - reduced economic inequality without eliminating incentives for innovation and excellence  
 - more robust competition and faster innovation  
 - revitalized communities anchored by local ownership  
+- shared civic service experience that strengthens national resilience and social cohesion  
+- transparent program scorecards and faster leadership corrections that reduce waste and improve trust  
 - stable long-term corporate growth in a less fragile macro environment  
 - reduced political extremism fueled by economic insecurity  
 - a capitalism model that can coexist with high automation and global complexity
